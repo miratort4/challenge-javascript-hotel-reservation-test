@@ -6,8 +6,12 @@
     "test": "mocha test/**/*spec.js"
   },
   "dependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^4.0.1"
+    "-": "^0.0.1",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "mocha": "^4.1.0",
+    "save": "^2.5.0",
+    "save-dev": "^0.0.1-security"
   },
   "main": "index.js",
   "directories": {
